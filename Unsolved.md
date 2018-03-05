@@ -1,4 +1,4 @@
-## Homework Assignment
+## These are the following challenges I worked on:
 
 * 1a. Display the first and last names of all actors from the table `actor`. 
 
